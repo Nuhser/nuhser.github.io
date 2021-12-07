@@ -4,4 +4,4 @@ You found my public repository overview page. On here I'll link to my repositori
 
 ## Minecraft Datapacks
 
-[Nuhser Core](nuhser.github.io/nuhser_core)
+[Nuhser Core](./nuhser_core)
